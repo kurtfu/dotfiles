@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.useCMakePresets": "never",
+    "C_Cpp.codeAnalysis.exclude": {
+        "**/build": true,
+        "**/tests": true
+    }
+}
